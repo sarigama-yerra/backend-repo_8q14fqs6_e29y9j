@@ -1,13 +1,13 @@
 INFO:     Will watch for changes in these directories: ['/home/workspace']
 INFO:     Uvicorn running on http://0.0.0.0:8000 (Press CTRL+C to quit)
-INFO:     Started reloader process [242] using StatReload
-INFO:     Started server process [244]
+INFO:     Started reloader process [288] using StatReload
+INFO:     Started server process [290]
 INFO:     Waiting for application startup.
 INFO:     Application startup complete.
-INFO:     172.20.0.1:42332 - "HEAD / HTTP/1.1" 405 Method Not Allowed
-INFO:     172.20.0.1:42344 - "GET /api/printers HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42358 - "GET /api/printers HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42344 - "GET /api/printers HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42358 - "GET /api/printers HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42344 - "GET /api/printers HTTP/1.1" 200 OK
-INFO:     172.20.0.1:42344 - "GET /api/printers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36950 - "HEAD / HTTP/1.1" 405 Method Not Allowed
+INFO:     172.20.0.1:36966 - "GET /api/printers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36968 - "GET /api/printers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36966 - "GET /api/printers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36968 - "GET /api/printers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36982 - "GET /api/printers HTTP/1.1" 200 OK
+INFO:     172.20.0.1:36982 - "GET /api/printers HTTP/1.1" 200 OK
